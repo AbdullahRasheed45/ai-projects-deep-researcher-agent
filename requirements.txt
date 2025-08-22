@@ -1,0 +1,7 @@
+agno
+openai
+scrapegraph-py
+python-dotenv
+streamlit
+pydantic
+nest_asyncio
